@@ -1,0 +1,31 @@
+Game_Number,Sport,Opponent,Game_Date,Location,Home_Away,Travel_Distance_Miles,Travel_Duration_Hours,Timezones_Crossed,Travel_Direction
+1,Women's Basketball,Purdue Northwest,2025-10-30,"South Bend, IN",Home,0,0,0,Home
+2,Women's Basketball,FDU,2025-11-05,"South Bend, IN",Home,0,0,0,Home
+3,Women's Basketball,Chicago State,2025-11-09,"South Bend, IN",Home,0,0,0,Home
+4,Women's Basketball,Akron,2025-11-12,"South Bend, IN",Home,0,0,0,Home
+5,Women's Basketball,Michigan,2025-11-15,"Detroit, MI",Neutral,169.6,3.08,1,Eastbound
+6,Women's Basketball,Southern Cal,2025-11-21,"South Bend, IN",Home,0,0,0,Home
+7,Women's Basketball,Central Michigan,2025-11-24,"South Bend, IN",Home,0,0,0,Home
+8,Women's Basketball,Ole Miss,2025-12-04,"Oxford, MS",Away,652.3,5.3,1,South
+9,Women's Basketball,Florida State,2025-12-07,"Tallahassee, FL",Away,408.5,7.43,1,Eastbound
+10,Women's Basketball,Morehead State,2025-12-11,"South Bend, IN",Home,0,0,0,Home
+11,Women's Basketball,James Madison,2025-12-14,"Harrisonburg, VA",Away,623.4,5.25,0,North
+12,Women's Basketball,Bellarmine,2025-12-21,"South Bend, IN",Home,0,0,0,Home
+13,Women's Basketball,Pittsburgh,2025-12-29,"South Bend, IN",Home,0,0,0,Home
+14,Women's Basketball,Georgia Tech,2026-01-01,"Atlanta, GA",Away,433.6,7.88,0,Westbound
+15,Women's Basketball,Duke,2026-01-04,"Durham, NC",Away,347.6,6.32,0,Eastbound
+16,Women's Basketball,Boston College,2026-01-08,"South Bend, IN",Home,0,0,0,Home
+17,Women's Basketball,North Carolina,2026-01-11,"South Bend, IN",Home,0,0,0,Home
+18,Women's Basketball,Louisville,2026-01-15,"South Bend, IN",Home,0,0,0,Home
+19,Women's Basketball,UConn,2026-01-19,"Storrs, CT",Away,537.6,5.08,0,Eastbound
+20,Women's Basketball,Miami,2026-01-22,"South Bend, IN",Home,0,0,0,Home
+21,Women's Basketball,Clemson,2026-01-25,"South Bend, IN",Home,0,0,0,Home
+22,Women's Basketball,California,2026-01-29,"Berkeley, CA",Away,2629.9,9.26,3,Westbound
+23,Women's Basketball,Stanford,2026-02-01,"Palo Alto, CA",Away,30.4,0.55,0,South
+24,Women's Basketball,Virginia Tech,2026-02-05,"South Bend, IN",Home,0,0,0,Home
+25,Women's Basketball,Virginia,2026-02-08,"Charlottesville, VA",Away,2364.1,8.73,3,Eastbound
+26,Women's Basketball,NC State,2026-02-15,"South Bend, IN",Home,0,0,0,Home
+27,Women's Basketball,Wake Forest,2026-02-19,"Winston-Salem, NC",Away,165.1,3.0,0,South
+28,Women's Basketball,SMU,2026-02-22,"Dallas, TX",Away,969.5,5.94,1,Westbound
+29,Women's Basketball,Syracuse,2026-02-26,"South Bend, IN",Home,0,0,0,Home
+30,Women's Basketball,Louisville,2026-03-01,"Louisville, KY",Away,726.3,5.45,0,Eastbound

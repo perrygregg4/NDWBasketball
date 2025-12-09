@@ -1,0 +1,31 @@
+Game_Number,Game_Date,Opponent,Home_Away,Days_Rest_Since_Last,Travel_Distance_Miles,Travel_Duration_Hours,Timezones_Crossed,Travel_Direction,Cumulative_Distance_Miles,Cumulative_Hours,Travel_Fatigue_Component,Timezone_Fatigue_Component,Rest_Fatigue_Component,Consecutive_Game_Fatigue,Overall_Fatigue_Score,Fatigue_Level
+1,2025-10-30,Purdue Northwest,Home,0,0.0,0.0,0,Home,0.0,0.0,0,0,20,0,20,LOW
+2,2025-11-05,FDU,Home,6,0.0,0.0,0,Home,0.0,0.0,0,0,0,0,0,LOW
+3,2025-11-09,Chicago State,Home,4,0.0,0.0,0,Home,0.0,0.0,0,0,0,0,0,LOW
+4,2025-11-12,Akron,Home,3,0.0,0.0,0,Home,0.0,0.0,0,0,5,0,5,LOW
+5,2025-11-15,Michigan,Neutral,3,169.6,3.08,1,Eastbound,169.6,3.1,5,5,5,0,15,LOW
+6,2025-11-21,Southern Cal,Home,6,0.0,0.0,0,Home,169.6,3.1,0,0,0,0,0,LOW
+7,2025-11-24,Central Michigan,Home,3,0.0,0.0,0,Home,169.6,3.1,0,0,5,0,5,LOW
+8,2025-12-04,Ole Miss,Away,10,652.3,5.3,1,South,821.9,8.4,15,5,0,0,20,LOW
+9,2025-12-07,Florida State,Away,3,408.5,7.43,1,Eastbound,1230.4,15.8,5,5,5,15,30,MODERATE
+10,2025-12-11,Morehead State,Home,4,0.0,0.0,0,Home,1230.4,15.8,0,0,0,30,30,MODERATE
+11,2025-12-14,James Madison,Away,3,623.4,5.25,0,North,1853.8,21.1,15,0,5,15,35,MODERATE
+12,2025-12-21,Bellarmine,Home,7,0.0,0.0,0,Home,1853.8,21.1,0,0,0,0,0,LOW
+13,2025-12-29,Pittsburgh,Home,8,0.0,0.0,0,Home,1853.8,21.1,0,0,0,0,0,LOW
+14,2026-01-01,Georgia Tech,Away,3,433.6,7.88,0,Westbound,2287.4,28.9,5,0,5,0,10,LOW
+15,2026-01-04,Duke,Away,3,347.6,6.32,0,Eastbound,2635.0,35.3,5,0,5,15,25,LOW
+16,2026-01-08,Boston College,Home,4,0.0,0.0,0,Home,2635.0,35.3,0,0,0,30,30,MODERATE
+17,2026-01-11,North Carolina,Home,3,0.0,0.0,0,Home,2635.0,35.3,0,0,5,0,5,LOW
+18,2026-01-15,Louisville,Home,4,0.0,0.0,0,Home,2635.0,35.3,0,0,0,0,0,LOW
+19,2026-01-19,UConn,Away,4,537.6,5.08,0,Eastbound,3172.6,40.3,15,0,0,0,15,LOW
+20,2026-01-22,Miami,Home,3,0.0,0.0,0,Home,3172.6,40.3,0,0,5,0,5,LOW
+21,2026-01-25,Clemson,Home,3,0.0,0.0,0,Home,3172.6,40.3,0,0,5,0,5,LOW
+22,2026-01-29,California,Away,4,2629.9,9.26,3,Westbound,5802.5,49.6,30,15,0,0,45,MODERATE
+23,2026-02-01,Stanford,Away,3,30.4,0.55,0,South,5832.9,50.2,5,0,5,15,25,LOW
+24,2026-02-05,Virginia Tech,Home,4,0.0,0.0,0,Home,5832.9,50.2,0,0,0,30,30,MODERATE
+25,2026-02-08,Virginia,Away,3,2364.1,8.73,3,Eastbound,8197.0,58.9,25,15,5,15,60,HIGH
+26,2026-02-15,NC State,Home,7,0.0,0.0,0,Home,8197.0,58.9,0,0,0,0,0,LOW
+27,2026-02-19,Wake Forest,Away,4,165.1,3.0,0,South,8362.1,61.9,5,0,0,15,20,LOW
+28,2026-02-22,SMU,Away,3,969.5,5.94,1,Westbound,9331.6,67.8,15,5,5,15,40,MODERATE
+29,2026-02-26,Syracuse,Home,4,0.0,0.0,0,Home,9331.6,67.8,0,0,0,30,30,MODERATE
+30,2026-03-01,Louisville,Away,3,726.3,5.45,0,Eastbound,10057.9,73.3,15,0,5,15,35,MODERATE
