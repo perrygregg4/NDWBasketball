@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Read the main schedule
-df = pd.read_csv('/tmp/nd_womens_basketball_2025_2026.csv')
+df = pd.read_csv('nd_womens_basketball_2025_2026.csv')
 df['Game_Date'] = pd.to_datetime(df['Game_Date'])
 
 # Create derived metrics CSV
@@ -100,7 +100,7 @@ for idx, row in df.iterrows():
 
 # Create dataframe and save
 derived_df = pd.DataFrame(derived_data)
-derived_df.to_csv('/tmp/nd_womens_basketball_2025_2026_with_fatigue_metrics.csv', index=False)
+derived_df.to_csv('nd_womens_basketball_2025_2026_with_fatigue_metrics.csv', index=False)
 
 print("=" * 100)
 print("DERIVED FATIGUE METRICS - NOTRE DAME WOMEN'S BASKETBALL 2025-2026")
